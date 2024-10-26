@@ -42,8 +42,7 @@ insurance-quote-management/ ├── backend/ │ ├── src/ │ │ ├─
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/insurance-quote-management.git
-    cd insurance-quote-management
+    git clone https://github.com/Elhatimbakri/rsapi-wafa.git
     ```
 
 2. **Setup Backend**:
